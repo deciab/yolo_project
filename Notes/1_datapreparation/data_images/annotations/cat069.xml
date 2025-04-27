@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>cat069.jpg</filename>
+	<path>C:\Users\wikad\Desktop\yolo_object\Notes\yolo_venv\1_datapreparation\data_images\cat069.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3328</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>415</ymin>
+			<xmax>2563</xmax>
+			<ymax>4160</ymax>
+		</bndbox>
+	</object>
+</annotation>
