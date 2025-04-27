@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>dog085.jpg</filename>
+	<path>C:\Users\wikad\Desktop\yolo_object\Notes\yolo_venv\1_datapreparation\data_images\dog085.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3365</width>
+		<height>4355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>318</ymin>
+			<xmax>2859</xmax>
+			<ymax>4150</ymax>
+		</bndbox>
+	</object>
+</annotation>

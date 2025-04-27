@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>cat031.jpg</filename>
+	<path>C:\Users\wikad\Desktop\yolo_object\Notes\1_datapreparation\data_images\cat031.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2988</width>
+		<height>5312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>2239</ymin>
+			<xmax>2294</xmax>
+			<ymax>4416</ymax>
+		</bndbox>
+	</object>
+</annotation>
